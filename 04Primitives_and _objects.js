@@ -16,3 +16,18 @@ console.log(typeof d)
 console.log(typeof e)
 console.log(typeof f)
 console.log(typeof g)
+
+
+// objects
+const item = {
+    "Pratham":true,
+    "Golu":false,
+    "vivek":545,
+    "Paras":"python",
+    "Chunnu":undefined,
+}
+console.log(item["Pratham"])
+console.log(item["Chunnu"])
+console.log(item["Golu"])
+console.log(item["Paras"])
+console.log(item["vivek"])
