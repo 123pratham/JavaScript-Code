@@ -1,4 +1,13 @@
 // nn bb ss u
+/*
+n = null
+n = number
+b = boolean
+b = bigint
+s = string
+s = symbol
+u = undefined
+*/
 
 let a = null
 let b = 20054
